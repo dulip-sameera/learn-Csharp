@@ -1,0 +1,17 @@
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.Main.resources
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.csproj.GenerateResource.cache
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.AssemblyInfoInputs.cache
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.AssemblyInfo.cs
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.csproj.CoreCompileInputs.cache
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.sourcelink.json
+D:\repos\learn-c#\WeekPayCalc\bin\Debug\net8.0-windows\WeekPayCalc.exe
+D:\repos\learn-c#\WeekPayCalc\bin\Debug\net8.0-windows\WeekPayCalc.deps.json
+D:\repos\learn-c#\WeekPayCalc\bin\Debug\net8.0-windows\WeekPayCalc.runtimeconfig.json
+D:\repos\learn-c#\WeekPayCalc\bin\Debug\net8.0-windows\WeekPayCalc.dll
+D:\repos\learn-c#\WeekPayCalc\bin\Debug\net8.0-windows\WeekPayCalc.pdb
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.dll
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\refint\WeekPayCalc.dll
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.pdb
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\WeekPayCalc.genruntimeconfig.cache
+D:\repos\learn-c#\WeekPayCalc\obj\Debug\net8.0-windows\ref\WeekPayCalc.dll
